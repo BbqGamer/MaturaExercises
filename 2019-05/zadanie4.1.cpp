@@ -16,7 +16,7 @@ bool isPowerOfThree(int number) {
 int main() {
 
     ifstream file;
-    file.open("przyklad.txt");
+    file.open("liczby.txt");
 
     int number;
     int count = 0;
